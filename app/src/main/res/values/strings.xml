@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CARS</string>
+    <string name="car_identifier">CAR IDENTIFIER</string>
+    <string name="identify_the_car_make">IDENTIFY THE CAR MAKE</string>
+    <string name="hint">HINTS</string>
+    <string name="identify_the_car_image">IDENTIFY THE CAR IMAGE</string>
+    <string name="advanced_level">ADVANCED LEVEL</string>
+    <string name="quit">QUIT</string>
+    <string name="timer">Timer</string>
+    <string name="car_image">car_image</string>
+    <string name="select_the_car_brand">Select the Car Brand</string>
+    <string name="car_identifier_hints">Car Identifier Hints</string>
+    <string name="identifying_the_car">IDENTIFY THE CAR</string>
+    <string name="your_answer">Your Answer</string>
+    <string name="score_0">Score : 0</string>
+    <string name="input_one_letter">Input One Letter</string>
+</resources>
